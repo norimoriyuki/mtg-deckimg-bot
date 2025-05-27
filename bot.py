@@ -9,8 +9,6 @@ from deckviewer import show_deckimg
 intents = discord.Intents.all()
 intents.messages = True
 
-DATABASE_URL = os.environ['DATABASE_URL']
-
 bot = commands.Bot(command_prefix='!', intents=intents)
 
 c = comb
