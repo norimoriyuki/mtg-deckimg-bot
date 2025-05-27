@@ -1,0 +1,13 @@
+discord.py
+beautifulsoup4
+requests
+python-dotenv
+openai >= 1.2.0
+pytz
+tweepy
+asyncpg
+python-dateutil
+matplotlib
+apscheduler
+psutil
+Pillow
